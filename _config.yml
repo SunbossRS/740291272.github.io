@@ -1,28 +1,26 @@
-# ---------------- #
+﻿# ---------------- #
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://ice1000.org
+url: http://gloomyghost.com
 date_format: "ordinal"
-name: "ice1000's Blog"
-title: ice1000 >>= akiris
-subtitle: "淡泊以明志 >>> 宁静而致远"
-description: "ice1000's blog"
-keywords: ice1000, Akiris, blog
+name: "GloomyGhost"
+title: GloomyGhost
+subtitle: "GloomyGhost's Blog>>Life Because You"
+description: "GloomyGhost's Blog"
+keywords: GloomyGhost,blog
 favicon: /favicon.ico
-# timezone: Asia/ChengDu
+# timezone: Asia/YunNan
 encoding: "utf-8"
 side_bar_repo_limit: 6
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Tesla Ice Zhang >>= Akiris Wu
-github_username: ice1000
-github_username2: AkimotoAkari
-organization: Working Together
-location: ChengDu, China
-email: ice1000kotlin@foxmail.com
+author: GloomyGhost
+github_username: GloomyGhost
+location: YunNan, China
+email: GloomyGhost@foxmail.com
 
 # ---------------- #
 #    Navigation    #
