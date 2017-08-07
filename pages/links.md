@@ -8,7 +8,7 @@ menu: Links
 permalink: /links/
 ---
 
-> 友情链接，欢迎来看看.
+>Friend's Website .
 
 {% for link in site.data.links %}
 * [{{ link.name }}]({{ link.url }})
