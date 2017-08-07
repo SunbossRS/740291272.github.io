@@ -30,9 +30,7 @@ navs:
   -
     href: /
     label: 主页
-  -
-      href: /gloomyghost/tools/index.html
-      label: 工具
+
 
   -
     href: /links/
