@@ -91,32 +91,25 @@ Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就�
 ```---     //先来三条-
 ```
 
-```
-layout: post     //然后你的文章目录属于
-```
-
-```
-title: 如何正确的写一篇MakeDown博文   //标题
+```layout: post     //然后你的文章目录属于
 ```
 
-```
-category: Hello   //文件夹
-```
-
-```
-tags: MakerDown, md, 博文   //标签
+```title: 如何正确的写一篇MakeDown博文   //标题
 ```
 
-```
-keywords: MakerDown, md, 博文   //关键词
-```
-
-```
-description: 教你如何正确写一篇MakeDowm的博文   //摘要
+```category: Hello   //文件夹
 ```
 
+```tags: MakerDown, md, 博文   //标签
 ```
----    //国际惯例
+
+```keywords: MakerDown, md, 博文   //关键词
+```
+
+```description: 教你如何正确写一篇MakeDowm的博文   //摘要
+```
+
+```---    //国际惯例
 ```
 
 
