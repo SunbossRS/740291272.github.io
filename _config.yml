@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://gloomyghost.com
+url: 
 date_format: "ordinal"
 name: "GloomyGhost"
 title: GloomyGhost
