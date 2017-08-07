@@ -8,7 +8,7 @@ menu: Links
 permalink: /links/
 ---
 
-> Welcome to visit my friends' website.
+> 友情链接，欢迎来看看.
 
 {% for link in site.data.links %}
 * [{{ link.name }}]({{ link.url }})
