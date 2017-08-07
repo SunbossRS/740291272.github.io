@@ -28,11 +28,7 @@ email: GloomyGhost@foxmail.com
 navs:
   -
     href: /
-    label: 主页
-
-  -
-    href: /categories/
-    label: Archieve
+    label: Home
 
   -
     href: /resume/
