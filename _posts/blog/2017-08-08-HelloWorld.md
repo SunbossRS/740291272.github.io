@@ -88,29 +88,26 @@ Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就�
 
 写MD博文的格式是
 
-```---     //先来三条-
-```
+```---     //先来三条-```
 
-```layout: post     //然后你的文章目录属于
-```
+layout: post     //然后你的文章目录属于
 
-```title: 如何正确的写一篇MakeDown博文   //标题
-```
 
-```category: Hello   //文件夹
-```
+title: 如何正确的写一篇MakeDown博文   //标题
 
-```tags: MakerDown, md, 博文   //标签
-```
 
-```keywords: MakerDown, md, 博文   //关键词
-```
+category: Hello   //文件夹
 
-```description: 教你如何正确写一篇MakeDowm的博文   //摘要
-```
 
-```---    //国际惯例
-```
+tags: MakerDown, md, 博文   //标签
+
+keywords: MakerDown, md, 博文   //关键词
+
+description: 教你如何正确写一篇MakeDowm的博文   //摘要
+
+
+```---    //国际惯例```
+
 
 
 好了，去撰写你的博客吧！
