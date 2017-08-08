@@ -50,3 +50,6 @@ these terms, please let a maintainer ([@parkr](https://github.com/parkr), [@envy
 ## License
 
 See the [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE) file.
+
+
+![img-source-from-https://github.com/docker/dockercraft](https://github.com/docker/dockercraft/raw/master/docs/img/contribute.png?raw=true)
