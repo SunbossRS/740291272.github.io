@@ -29,24 +29,24 @@ email: GloomyGhost@foxmail.com
 navs:
   -
     href: /
-    label: 主页
+    label: Home
 
 
   -
     href: /gloomyghost/tools/index.html
-    label: 工具
+    label: Tools
 
   -
     href: /links/
-    label: 友链
+    label: Links
 
   -
     href: https://github.com/740291272
-    label: 作品
+    label: Project
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #
