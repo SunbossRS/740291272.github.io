@@ -1,11 +1,13 @@
-### 我的博客
+# 我的博客
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-# 使用博客引擎Jekyll
+### 为什么使用英文作为README
 
+无法回避的事实，当今世界中的信息技术，绝大部分是欧美人的发明，更准确地说，是美国人的功劳。顺理成章的，各种资料文档技术手册，尤其是记载最新技术的， 都是用美国通用语也就是英语撰写的。可能在其它领域不懂英语没有什么大的问题，但在IT行业，不懂英语就是无法掌握最先进的技术，基本等于没有出头之日。
 
-# [Jekyll](https://jekyllrb.com/)
+----------
+
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
 [![Linux Build Status](https://img.shields.io/travis/jekyll/jekyll/master.svg?label=Linux%20build)][travis]
@@ -33,13 +35,6 @@ Jekyll does what you tell it to do — no more, no less. It doesn't try to outs
 
 See: https://jekyllrb.com/docs/troubleshooting/
 
-## Getting Started
-
-* [Install](https://jekyllrb.com/docs/installation/) the gem
-* Read up about its [Usage](https://jekyllrb.com/docs/usage/) and [Configuration](https://jekyllrb.com/docs/configuration/)
-* Take a gander at some existing [Sites](https://wiki.github.com/jekyll/jekyll/sites)
-* [Fork](https://github.com/jekyll/jekyll/fork) and [Contribute](https://jekyllrb.com/docs/contributing/) your own modifications
-* Have questions? Check out our official forum community [Jekyll Talk](https://talk.jekyllrb.com/) or [`#jekyll` on irc.freenode.net](https://botbot.me/freenode/jekyll/)
 
 ## Code of Conduct
 
@@ -52,14 +47,7 @@ Jekyll community. It is strictly enforced on all official Jekyll
 repositories, websites, and resources. If you encounter someone violating
 these terms, please let a maintainer ([@parkr](https://github.com/parkr), [@envygeeks](https://github.com/envygeeks), [@mattr-](https://github.com/mattr-), or [@alfredxing](https://github.com/alfredxing)) know and we will address it as soon as possible.
 
-## Diving In
 
-* [Migrate](http://import.jekyllrb.com/docs/home/) from your previous system
-* Learn how the [YAML Front Matter](https://jekyllrb.com/docs/frontmatter/) works
-* Put information on your site with [Variables](https://jekyllrb.com/docs/variables/)
-* Customize the [Permalinks](https://jekyllrb.com/docs/permalinks/) your posts are generated with
-* Use the built-in [Liquid Extensions](https://jekyllrb.com/docs/templates/) to make your life easier
-* Use custom [Plugins](https://jekyllrb.com/docs/plugins/) to generate content specific to your site
 
 ## License
 
