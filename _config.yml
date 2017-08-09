@@ -10,7 +10,7 @@ subtitle: "Life Not Null"
 description: "GloomyGhost's Blog"
 keywords: GloomyGhost,blog
 favicon: /favicon.ico
-# timezone: Asia/YunNan
+#timezone: Asia/YunNan
 encoding: "utf-8"
 side_bar_repo_limit: 6
 
@@ -35,6 +35,10 @@ navs:
   -
     href: /gloomyghost/tools/index.html
     label: 工具
+
+  -
+    href: /categories/
+    label: 文章目录
 
   -
     href: /links/
