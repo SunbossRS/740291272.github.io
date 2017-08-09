@@ -1,10 +1,10 @@
 ﻿---
 layout: page
-title: About
+title: 关于
 description: About
 keywords: 740291272.github.io
 comments: true
-menu: About
+menu: 关于
 permalink: /about/
 ---
 
