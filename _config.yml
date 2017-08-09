@@ -57,6 +57,22 @@ navs:
 # ---------------- #
 subscribe_rss: /feed.xml
 
+
+# ---------------- #
+#      Repo        #
+# ---------------- #
+
+
+gitment:
+  on: true  # 启用gitment评论系统
+  owner: 740291272  # 你的github账号
+  repo: REPT  # 评论issue保存的仓库，我选择保存在blog仓库，也可以新建一个仓库
+  client_id: 372fd5e862e90d77b1b6   # 上一步注册后生成的client_id
+  client_secret: cd16646f856da1331e62653765be34e0e07c9a84 # 上一步注册后生成的client_secret
+
+
+
+
 # ---------------- #
 #      Jekyll      #
 # ---------------- #
