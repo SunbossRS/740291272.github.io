@@ -41,6 +41,9 @@ navs:
     label: 归档
 
   -
+    href: /_layouts?Repo.html
+    label: 评论
+  -
     href: /links/
     label: 友链
 
