@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 无线电？特斯拉线圈是如何工作的。
+title: 闪电制造？特斯拉线圈是如何工作的。
 category: blog
 tags: tesla coil, TC, 博文,特斯拉
 keywords: tesla coil, TC, 博文,特斯拉
