@@ -21,7 +21,7 @@ description: 在众多的创新中，尼古拉·特斯拉（Nikola Tesla）梦�
 
 ## 如何运行的
 
-松散耦合的初级和次级线圈通过磁相位同步强耦合。特斯拉线圈由一个（有时用两个）谐振感应耦合的共振电路(谐振电路)组成。次级线圈的短路电感和杂散电容组合为谐振电路。通过以驱动初级线圈在次级线圈的谐振频率（串联谐振频率）1' 磁相位同步使得互磁通量的增加，从而次级线圈中发生最高电压。
+临界耦合的初级和次级线圈通过[磁相位同步](https://en.wikipedia.org/wiki/Resonant_inductive_coupling)强耦合。特斯拉线圈由一个（有时用两个）谐振感应耦合[谐振电路](https://en.wikipedia.org/wiki/Electrical_resonance)组成（亦：双调谐耦合回路或者单调谐耦合回路）。次级线圈的[短路电感（亦：漏感）](https://en.wikipedia.org/wiki/Short-circuit_inductance)和[寄生电容](https://en.wikipedia.org/wiki/Capacitance#Stray_capacitance)组合为谐振电路。通过以驱动初级线圈在次级线圈的谐振频率（串联谐振频率）磁相位同步使得互磁通量的增加，从而次级线圈中发生最高电压。
 
 ![特斯拉线圈](http://ouav818sk.bkt.clouddn.com/tesla-coil-070914final.jpg)
 
