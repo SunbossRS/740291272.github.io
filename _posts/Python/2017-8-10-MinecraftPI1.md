@@ -43,10 +43,9 @@ description: 探索Minecraft Pi的虚拟世界
 
 如果您使用的是旧版本的Raspbian，请打开一个终端窗口并输入以下命令（您必须有网络连接）：
 ```
-sudo apt-get update```
-
+sudo apt-get update
+sudo apt-get install minecraft-pi
 ```
-sudo apt-get install minecraft-pi```
 
 一旦完成，就会安装Minecraft Pi和Python库。
 
@@ -73,9 +72,7 @@ sudo apt-get install minecraft-pi```
 
 ```
 from mcpi import minecraft
-
 mc = minecraft.Minecraft.create()
-
 mc.postToChat("Hello world")
 ```
 
@@ -105,18 +102,17 @@ Minecraft是一个受欢迎的沙盒开放世界的建筑游戏。免费版的Mi
 你现在正在玩Minecraft！去走走，劈东西，撸树致富！
 
 使用鼠标环顾四周，并使用键盘上的以下按键：
----
-键位	命令
-W: 前进
-A: 左
-S: 后退
-D: 右
-E: 物品栏
-Space: 跳
-双击Space: 飞 / 掉下来
-Esc: 暂停 / 游戏主菜单
-Tab: 释放鼠标
----
+
+键位	       命令<br>
+W: 	       前进<br>
+A: 	       左<br>
+S: 	       后退<br>
+D: 	       右<br>
+E: 	       物品栏<br>
+Space: 	   跳<br>
+双击Space: 飞 / 掉下来<br>
+Esc: 	  暂停 / 游戏主菜单<br>
+
 
 您可以使用鼠标的滚轮从物品栏中选择一个方块（或使用键盘上的数字），或者E从库存中选择一些东西。
 
@@ -137,13 +133,11 @@ Tab: 释放鼠标
 如果你想创建一个文件，去File > New window，File > Save。您可以将其保存在主文件夹或新项目文件夹中。
 
 从导入Minecraft库开始，创建与游戏的连接，并通过将消息“Hello world”发送到屏幕进行测试：
-
-```from mcpi.minecraft  import  Minecraft```
-
-```mc = Minecraft.create（）```
-
-```mc.postToChat（“ Hello world ”）```
-
+```
+from mcpi.minecraft  import  Minecraft
+mc = Minecraft.create（）
+mc.postToChat（“ Hello world ”）
+```
 如果您直接输入命令到Python窗口，在每行后面时Enter。如果它是一个文件，保存：Ctrl + S并运行：F5。当您的代码运行时，您应该在游戏中的屏幕上看到您的消息。
 
 ![helloworld.gif](http://ouav818sk.bkt.clouddn.com/helloworld.gif)
@@ -167,10 +161,10 @@ pos现在包含你的位置; 访问坐标系的每一部分pos.x，pos.y和pos.z
 ### 瞬移
 
 除了找出您当前的位置，您可以指定要传送到的特定位置。
-
-```x, y, z = mc.player.getPos()```
-```mc.player.setPos(x, y+100, z)```
-
+```
+x, y, z = mc.player.getPos()
+mc.player.setPos(x, y+100, z)
+```
 这将把您的玩家运送到空中的100个空间。这意味着你会传送到天空的中间，直接回到你开始的地方。
 
 尝试传送到其他地方！
@@ -178,10 +172,10 @@ pos现在包含你的位置; 访问坐标系的每一部分pos.x，pos.y和pos.z
 ### 设置方块
 
 您可以在给定的一组坐标位置放置单个   方块,使用mc.setBlock()：
-
-```x, y, z = mc.player.getPos()```
-```mc.setBlock(x+1, y, z, 1)```
-
+```
+x, y, z = mc.player.getPos()
+mc.setBlock(x+1, y, z, 1)
+```
 现在一块方块石方块应该出现在你站立的旁边。如果它不是立即在你面前，它可能在你身后。返回到Minecraft窗口，并使用鼠标旋转，直到您在前面看到一个灰色方块。
 
 ![mcpi-setblock.png](http://ouav818sk.bkt.clouddn.com/mcpi-setblock.png)
@@ -191,8 +185,8 @@ pos现在包含你的位置; 访问坐标系的每一部分pos.x，pos.y和pos.z
 你可以试试的其他方块：
 
 空气:   0
-草地: 2
-泥土:  3
+草地:   2
+泥土:   3
 
 试着把它改成别的：
 
@@ -228,20 +222,25 @@ NETHER_REACTOR_CORE
 
 如果你知道一个   方块的id，将它设置为一个变量是有用的。您可以使用名称或整数ID。
 
-```dirt = 3```
-```mc.setBlock(x, y, z, dirt)```
-
+```
+dirt = 3
+mc.setBlock(x, y, z, dirt)
+```
 或者
 
-```dirt = block.DIRT.id```
-```mc.setBlock(x, y, z, dirt)```
+```
+dirt = block.DIRT.id
+mc.setBlock(x, y, z, dirt)
+```
 
 ### 特别的方块
 
 有一些具有额外属性的方块，例如可以指定颜色的额外设置的羊毛。要设置此使用可选的第四个参数setBlock：
 
-```wool = 35
-mc.setBlock(x, y, z, wool, 1)```
+```
+wool = 35
+mc.setBlock(x, y, z, wool, 1)
+```
 
 这里第四个参数1将羊毛颜色设置为橙色。没有第四个参数，它被设置为default（0），它是白色的。更多的颜色是：
 
@@ -257,9 +256,11 @@ mc.setBlock(x, y, z, wool, 1)```
 
 除了设置单个方块，setBlock您可以一次性填充一个空间setBlocks：
 
-```stone = 1
+```
+stone = 1
 x, y, z = mc.player.getPos()
-mc.setBlocks(x+1, y+1, z+1, x+11, y+11, z+11, stone)```
+mc.setBlocks(x+1, y+1, z+1, x+11, y+11, z+11, stone)
+```
 
 这将填充一个10 x 10 x 10立 体的实心石头。
 
@@ -273,7 +274,8 @@ mc.setBlocks(x+1, y+1, z+1, x+11, y+11, z+11, stone)```
 
 以下代码将在您身后随身携带一朵花：
 
-```from mcpi.minecraft import Minecraft
+```
+from mcpi.minecraft import Minecraft
 from time import sleep
 
 mc = Minecraft.create()
@@ -298,16 +300,20 @@ while True:
 
 如果玩家在草地上散步时只想放花，该怎么办？我们可以getBlock用来找出一个方块的类型：
 
-```x, y, z = mc.player.getPos()  # player position (x, y, z)
+```
+x, y, z = mc.player.getPos()  # player position (x, y, z)
 this_block = mc.getBlock(x, y, z)  # block ID
 print(this_block)
 ```
+
 这告诉你，你站在方块的位置在（这将是0-空气方块）。我们想知道，我们是站在什么类型的方块上。为此，我们从y值中减去1，并用于getBlock()确定我们所在的方块的类型：
 
-```x, y, z = mc.player.getPos()  # player position (x, y, z)
+```
+x, y, z = mc.player.getPos()  # player position (x, y, z)
 block_beneath = mc.getBlock(x, y-1, z)  # block ID
 print(block_beneath)
 ```
+
 这告诉我们玩家所在的区域的方块的ID。
 
 通过运行一个循环来测试它，以打印您当前所处的任何方块的ID：
@@ -335,12 +341,14 @@ while True:
 ```
 
 接下来我们可以把我们站在草地上的玻璃替换成草地。
+
 ```
 if block_beneath == grass:
     mc.setBlock(x, y, z, flower)
 else:
     mc.setBlock(x, y-1, z, grass)
 ```
+
 现在我们可以向前走，如果我们走在草地上，我们会留下一朵花。如果下一个方块不是草地，就变成草地。当我们转身走回来，在我们后面留下一朵花。
 
 ## 玩TNT
