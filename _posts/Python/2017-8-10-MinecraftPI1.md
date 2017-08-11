@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 探索Minecraft Pi的虚拟世界
-category: blog
+category: Python
 tags: 日志, blog, 博文 ,mcpi
 keywords: 日志, blog, 博文 ,mcpi
 description: 探索Minecraft Pi的虚拟世界
