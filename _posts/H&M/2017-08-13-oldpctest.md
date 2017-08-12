@@ -25,7 +25,7 @@ description: 跑分2000~2008年的3台老主机
 ## 首先是第一台（价格50）
 
 ### 配置
-![6](http://ouav818sk.bkt.clouddn.com/oldpc/img/6.bmp)
+![3](http://ouav818sk.bkt.clouddn.com/oldpc/img/3.bmp)
 
 ### CPU得分
 
@@ -47,8 +47,7 @@ description: 跑分2000~2008年的3台老主机
 
 ### 配置
 
-> 莫名其妙图丢了
-> E5200+4G ddr2 + GT210
+![6](http://ouav818sk.bkt.clouddn.com/oldpc/img/6.bmp)
 
 ### CPU
 
