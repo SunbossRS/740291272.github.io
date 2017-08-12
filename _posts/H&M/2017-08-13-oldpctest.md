@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 测评2000~2008年的3台老主机
+title: 跑分2000~2008年的3台老主机
 category: H&M
 tags: 日志, blog, 博文 ,pc ,电脑
 keywords: 日志, blog, 博文 ,pc ,电脑
-description: 测评2000~2008年的3台老主机
+description: 跑分2000~2008年的3台老主机
 ---
 
-> 测评2000~2008年的3台老主机
+> 跑分2000~2008年的3台老主机
 
 # 跑分内容：
 > CINEBENCH_11.529
