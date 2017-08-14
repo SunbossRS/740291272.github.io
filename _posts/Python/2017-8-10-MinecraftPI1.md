@@ -42,7 +42,7 @@ description: 探索Minecraft Pi的虚拟世界
 ![Minecraft Pi桌面图标](http://ouav818sk.bkt.clouddn.com/minecraft-pi-shortcut.png)
 
 如果您使用的是旧版本的Raspbian，请打开一个终端窗口并输入以下命令（您必须有网络连接）：
-```
+```batch
 sudo apt-get update
 sudo apt-get install minecraft-pi
 ```
@@ -70,7 +70,7 @@ sudo apt-get install minecraft-pi
 
 从导入Minecraft库开始，创建与游戏的连接，并通过将消息“Hello world”发送到屏幕进行测试：
 
-```
+```python
 from mcpi import minecraft
 mc = minecraft.Minecraft.create()
 mc.postToChat("Hello world")
@@ -133,7 +133,7 @@ Esc: 	  暂停 / 游戏主菜单<br>
 如果你想创建一个文件，去File > New window，File > Save。您可以将其保存在主文件夹或新项目文件夹中。
 
 从导入Minecraft库开始，创建与游戏的连接，并通过将消息“Hello world”发送到屏幕进行测试：
-```
+```python
 from mcpi.minecraft  import  Minecraft
 mc = Minecraft.create（）
 mc.postToChat（“ Hello world ”）
@@ -161,7 +161,7 @@ pos现在包含你的位置; 访问坐标系的每一部分pos.x，pos.y和pos.z
 ### 瞬移
 
 除了找出您当前的位置，您可以指定要传送到的特定位置。
-```
+```python
 x, y, z = mc.player.getPos()
 mc.player.setPos(x, y+100, z)
 ```
@@ -172,7 +172,7 @@ mc.player.setPos(x, y+100, z)
 ### 设置方块
 
 您可以在给定的一组坐标位置放置单个   方块,使用mc.setBlock()：
-```
+```python
 x, y, z = mc.player.getPos()
 mc.setBlock(x+1, y, z, 1)
 ```
@@ -256,7 +256,7 @@ mc.setBlock(x, y, z, wool, 1)
 
 除了设置单个方块，setBlock您可以一次性填充一个空间setBlocks：
 
-```
+```python
 stone = 1
 x, y, z = mc.player.getPos()
 mc.setBlocks(x+1, y+1, z+1, x+11, y+11, z+11, stone)
@@ -274,7 +274,7 @@ mc.setBlocks(x+1, y+1, z+1, x+11, y+11, z+11, stone)
 
 以下代码将在您身后随身携带一朵花：
 
-```
+```python
 from mcpi.minecraft import Minecraft
 from time import sleep
 
@@ -300,7 +300,7 @@ while True:
 
 如果玩家在草地上散步时只想放花，该怎么办？我们可以getBlock用来找出一个方块的类型：
 
-```
+```python
 x, y, z = mc.player.getPos()  # player position (x, y, z)
 this_block = mc.getBlock(x, y, z)  # block ID
 print(this_block)
@@ -308,7 +308,7 @@ print(this_block)
 
 这告诉你，你站在方块的位置在（这将是0-空气方块）。我们想知道，我们是站在什么类型的方块上。为此，我们从y值中减去1，并用于getBlock()确定我们所在的方块的类型：
 
-```
+```python
 x, y, z = mc.player.getPos()  # player position (x, y, z)
 block_beneath = mc.getBlock(x, y-1, z)  # block ID
 print(block_beneath)
@@ -318,7 +318,7 @@ print(block_beneath)
 
 通过运行一个循环来测试它，以打印您当前所处的任何方块的ID：
 
-```
+```python
 while True:
     x, y, z = mc.player.getPos()
     block_beneath = mc.getBlock(x, y-1, z)
@@ -327,7 +327,7 @@ while True:
 
 我们可以使用一个if陈述来选择我们是否种植花：
 
-```
+```python
 grass = 2
 flower = 38
 
@@ -342,7 +342,7 @@ while True:
 
 接下来我们可以把我们站在草地上的玻璃替换成草地。
 
-```
+```python
 if block_beneath == grass:
     mc.setBlock(x, y, z, flower)
 else:
@@ -384,9 +384,9 @@ mc.setBlocks(x+1, y+1, z+1, x+11, y+11, z+11, tnt, 1)
 
 ## 快乐流动的熔岩。
 
-一个玩得很开心的一方块是流动的熔岩。
+一个玩得很开心的方块是流动的熔岩。
 
-```
+```python
 from mcpi.minecraft import Minecraft
 
 mc = Minecraft.create()
@@ -400,9 +400,9 @@ mc.setBlock(x+3, y+3, z, lava)
 
 找到你刚刚放置的方块，你应该看到熔岩从那里流出。
 
-熔岩的凉爽之处在于，当它冷却下来时，它将变成岩石。移动到您的世界的另一个位置，并尝试：
+熔岩的有趣之处在于，当它冷却下来时，它将变成岩石。移动到您的世界的另一个位置，并尝试：
 
-```
+```python
 from mcpi.minecraft import Minecraft
 from time import sleep
 
