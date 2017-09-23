@@ -55,7 +55,9 @@ navs:
   -
     href: /about/
     label: 关于
-
+  -
+    href: http://en.gloomyghost.com
+    label: English
 # ---------------- #
 #       RSS        #
 # ---------------- #
