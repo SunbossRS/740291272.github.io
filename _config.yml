@@ -53,9 +53,6 @@ navs:
     label: 作品
 
   -
-    href: /about/
-    label: 关于
-  -
     href: https://gloomgyghost.github.io/
     label: English
 # ---------------- #
