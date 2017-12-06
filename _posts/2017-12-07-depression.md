@@ -2,7 +2,7 @@
 layout: post
 title: Longing for reason for the wisdom astonish me sing it at your will
 category: Blog
-cover:  'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509809418770&di=958b0132c0d1ea548eb9edc473113e0b&imgtype=0&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F0208b5a38b8404e9b1e4adb66808f9f53ae0e524.jpg'
+cover:  'http://p1.music.126.net/O1zMQTo7Xttfv8QflHFyXw==/2289183209054989.jpg'
 tags: 日志 blog 博文 
 description: Longing for reason for the wisdom astonish me sing it at your will
 ---
@@ -62,29 +62,7 @@ _______________
 
 也许这也是对的。。。。。。全智全能の言叶をほら闻かせてよ
 
-<script src="https://cdn.bootcss.com/aplayer/1.6.0/APlayer.min.js"></script>
 
-<div id="player1" class="aplayer"></div>
-var ap = new APlayer({
-    element: document.getElementById('player1'),                       // Optional, player element
-    narrow: false,                                                     // Optional, narrow style
-    autoplay: true,                                                    // Optional, autoplay song(s), not supported by mobile browsers
-    showlrc: 0,                                                        // Optional, show lrc, can be 0, 1, 2, see: ###With lrc
-    mutex: true,                                                       // Optional, pause other players when this player playing
-    theme: '#e6d0b2',                                                  // Optional, theme color, default: #b7daff
-    mode: 'random',                                                    // Optional, play mode, can be `random` `single` `circulation`(loop) `order`(no loop), default: `circulation`
-    preload: 'metadata',                                               // Optional, the way to load music, can be 'none' 'metadata' 'auto', default: 'auto'
-    listmaxheight: '513px',                                             // Optional, max height of play list
-    music: {                                                           // Required, music info, see: ###With playlist
-        title: 'Preparation',                                          // Required, music title
-        author: 'Hans Zimmer/Richard Harvey',                          // Required, music author
-        url: 'http://ouav818sk.bkt.clouddn.com/Neru%20-%20%E6%9D%B1%E4%BA%AC%E3%83%86%E3%83%87%E3%82%A3%E3%83%99%E3%82%A2.mp3',  // Required, music url
-        pic: 'http://p1.music.126.net/O1zMQTo7Xttfv8QflHFyXw==/2289183209054989.jpg',  // Optional, music picture
-        
-    }
-});
-
-<script src="https://cdn.bootcss.com/aplayer/1.6.0/APlayer.min.js"></script>
 
 ```
 父（とお）さん母（かあ）さん　今（いま）までごめん 
