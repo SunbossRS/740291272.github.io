@@ -3,9 +3,7 @@ layout: post
 title: 日志：安装windows server 2016
 category: H&M
 cover:  'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509350623444&di=c965f233052a121df9b9c4d0baf8cd4d&imgtype=0&src=http%3A%2F%2Fwww.bjjyhx.cn%2Fupload%2Fimages%2F20150824_160229.png'
-tags: 日志, blog, 博文 ,pc ,电脑
-keywords: 日志, blog, 博文 ,pc ,电脑
-description: 日志：安装windows server 2016
+tags: 日志 blog 博文 pc 电脑 服务器 玄学
 ---
 
 > 我不想再来一遍233333333333

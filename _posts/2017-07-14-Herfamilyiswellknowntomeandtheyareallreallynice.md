@@ -4,8 +4,6 @@ title: Her family is well known to me and they are all really nice
 category: H&M
 cover:  'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509809418770&di=958b0132c0d1ea548eb9edc473113e0b&imgtype=0&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F0208b5a38b8404e9b1e4adb66808f9f53ae0e524.jpg'
 tags: 日志 blog 博文 
-keywords: 日志, blog, 博文
-description: Her family is well known to me and they are all really nice
 ---
 
 Mary’s College grabs a pass from out of bounds agianst CSUS. St. Mary’s College defeats California State University Sacramento 68 13 in rugby at St. Dri FIT, according to Nike, is a high performance microfiber which moves sweat away from the body to keep the players comfortable. This, along with the laser cut holes that form a mesh layer, works towards creating a body mapped fabric which is designed keeping natural body contours in mind. Combined with ventilation zones this allows for more air to travel through the fabric..

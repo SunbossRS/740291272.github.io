@@ -3,9 +3,7 @@ layout: post
 title: UBUNTU17.10安装2017版QQ
 category: Program
 cover: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509273885452&di=2158a89062b955ab0dcfe21ea8df86ac&imgtype=0&src=http%3A%2F%2Fwww.logo11.cn%2Fuploads%2Fallimg%2F160501%2F1_160501115104_1.png'
-tags: 日志 blog 博文 pc 电脑
-keywords: 日志, blog, 博文 ,pc ,电脑
-description: 日志：安装windows server 2016
+tags: pc 电脑 软件 
 ---
 # UBUNTU17.10安装2017版QQ
 

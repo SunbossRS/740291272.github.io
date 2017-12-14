@@ -3,9 +3,7 @@ layout: post
 title: 闪电制造？特斯拉线圈是如何工作的。
 category: Tesla
 cover: 'http://bbs.makertime.org/attachment/1706/thread/62_129_db89a288e1f91ba.jpg'
-tags: tesla coil, TC, 博文,特斯拉
-keywords: tesla coil, TC, 博文,特斯拉
-description: 在众多的创新中，尼古拉·特斯拉（Nikola Tesla）梦想着创造出一种向世界供电的方式，而不需要在全球范围内部署电线....
+tags: tesla coil TC 特斯拉线圈
 ---
 
 >在众多的创新中，尼古拉·特斯拉（Nikola Tesla）梦想着创造出一种向世界供电的方式，而不需要在全球范围内部署电线....

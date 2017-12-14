@@ -4,7 +4,6 @@ title: Longing for reason for the wisdom astonish me sing it at your will
 category: Blog
 cover:  'http://p1.music.126.net/O1zMQTo7Xttfv8QflHFyXw==/2289183209054989.jpg'
 tags: 日志 blog 博文 
-description: Longing for reason for the wisdom astonish me sing it at your will
 ---
 
 

@@ -3,9 +3,7 @@ layout: post
 title: 联想ThinkPad X121e 业余测评
 category: 测评
 cover: 'https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=86fbb0b719178a82ce3c78a6ce3814b0/8435e5dde71190ef721bd8a4c91b9d16fcfa60ec.jpg'
-tags: 日志 blog 博文 pc 电脑 
-keywords: 日志, blog, 博文 ,pc ,电脑
-description: 联想ThinkPad X121e 业余测评
+tags: 日志 blog 博文 pc 电脑 测评
 ---
 # 联想ThinkPad X121e 业余测评
 

@@ -3,9 +3,7 @@ layout: post
 title: 探索Minecraft Pi的虚拟世界
 category: Python
 cover: 'http://ouav818sk.bkt.clouddn.com/mcpi-start.png'
-tags: 日志, blog, 博文 ,mcpi
-keywords: 日志, blog, 博文 ,mcpi
-description: 探索Minecraft Pi的虚拟世界
+tags: 日志 blog 博文 mcpi Minecraft
 ---
 
 

@@ -3,9 +3,7 @@ layout: post
 title: 跑分2000~2008年的3台老主机
 category: H&M
 cover: 'http://ouav818sk.bkt.clouddn.com/oldpc/img/3.bmp'
-tags: 日志, blog, 博文 ,pc ,电脑
-keywords: 日志, blog, 博文 ,pc ,电脑
-description: 跑分2000~2008年的3台老主机
+tags: 日志 blog 博文 pc 电脑
 ---
 
 > 跑分2000~2008年的3台老主机
