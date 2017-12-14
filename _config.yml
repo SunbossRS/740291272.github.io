@@ -1,5 +1,5 @@
 ﻿# Site settings 配置站点
-title: 'GloomyGhost Blog'
+title: 'グルーミーゴーストのブログ（GloomyGhost Blog)'
 description: 'GloomyGhost Blog '
 keyword: 'blog'
 url: 'http://gloomyghost.com' # your host
@@ -61,7 +61,7 @@ highlighter: rouge
 kramdown:
   input: GFM
 
-RSS: true
+RSS: false
 
 # Plugins
 gems: [jekyll-paginate]
