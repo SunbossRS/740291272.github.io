@@ -59,11 +59,19 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-              <folding>
-                <marker date="1513230646238" expanded="true" signature="75:93" ph="GloomyGhost Blog " />
-              </folding>
+            <state relative-caret-position="19">
+              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -447,12 +455,12 @@
       <workItem from="1513170739267" duration="781000" />
       <workItem from="1513180825960" duration="2222000" />
       <workItem from="1513218818334" duration="436000" />
-      <workItem from="1513221139842" duration="636000" />
+      <workItem from="1513221139842" duration="808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33420000" />
+    <option name="totallyTimeSpent" value="33592000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -512,8 +520,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-19-java.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-08-HTWablog.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-08-20-mconraspi2.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-10-mcpi3.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-08-13-oldpctest.md" />
@@ -746,13 +752,27 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zE85A79F53/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          <folding>
-            <marker date="1513230646238" expanded="true" signature="75:93" ph="GloomyGhost Blog " />
-          </folding>
+        <state relative-caret-position="19">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
