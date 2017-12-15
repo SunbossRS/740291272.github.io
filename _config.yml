@@ -12,6 +12,7 @@ nav:
   home: '/'
   tags: '/tags.html'
   Links: '/links.html'
+  Tools: '/tools/index.html'
 
 # Author 配置博主信息
 author: 'GloomyGhost'
