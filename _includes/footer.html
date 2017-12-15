@@ -1,4 +1,19 @@
 <footer class="g-footer">
+    <div id="skPlayer"></div>
+    <script src="http://ouav818sk.bkt.clouddn.com/skPlayer.min.js"></script>
+    <p>
+        <script>
+        var player = new skPlayer({
+        autoplay: true,
+        listshow: true,
+        mode: 'listloop',
+        music: {
+        type: 'cloud',
+        source: 2016349850
+        }
+        });
+        </script>
+    </p>
     <section>{{ site.title }} © {{ site.time | date: '%Y' }}</section>
     <section>Powered by <a href="https://github.com/740291272/Gweb">G Web</a> | <a href="#">CopyRight GloomyGhost</a></section>
     <p>
