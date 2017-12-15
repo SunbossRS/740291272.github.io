@@ -5,129 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae605fb-a626-40f9-9ef8-eaa28e738088" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/RP_SD-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/analytics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/cookies-resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/display-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/flags.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/fullcalendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/fullcalendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/geoip2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/jquery-migrate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/jquery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/jquery_002.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/location-resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/modaal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/modaal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/moment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/prism.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/prism.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/product-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/product.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/raven.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/sentry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/shortcodes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/tracking.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/vimeo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/wp-embed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/wp-emoji-release.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download NOOBS for Raspberry Pi_files/wp-gallery-custom-links.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/Raspian_SD-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/analytics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/cookies-resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/display-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/flags.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/fullcalendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/fullcalendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/geoip2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/jquery-migrate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/jquery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/jquery_002.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/location-resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/modaal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/modaal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/moment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/prism.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/prism.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/product-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/product.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/raven.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/sentry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/shortcodes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/tracking.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/vimeo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/wp-embed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/wp-emoji-release.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Download Raspbian for Raspberry Pi_files/wp-gallery-custom-links.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/Raspian_SD-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/analytics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/cookies-resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/display-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/flags.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/fullcalendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/fullcalendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/geoip2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/jquery-migrate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/jquery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/jquery_002.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/location-resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/modaal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/modaal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/moment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/prism.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/prism.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/product-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/product.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/raven.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/sentry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/shortcodes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/tracking.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/vimeo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/wp-embed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/wp-emoji-release.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/Raspberry Pi Desktop - Raspberry Pi_files/wp-gallery-custom-links.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/desktop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/analytics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/cookies-resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/display-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/flags.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/fullcalendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/fullcalendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/geoip2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/jquery-migrate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/jquery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/jquery_002.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/location-resolver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/modaal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/modaal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/moment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/prism.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/prism.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/product-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/product.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/raven.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/sentry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/shortcodes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/tracking.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/vimeo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/wp-embed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/wp-emoji-release.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/index_files/wp-gallery-custom-links.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/noob.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rapsidownload/raspbian.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/cc-license.html" afterPath="$PROJECT_DIR$/_includes/cc-license.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -151,11 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cc-license.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/cc-license.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -255,6 +143,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="740291272.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="740291272.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="740291272.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -512,12 +414,12 @@
       <workItem from="1513242734295" duration="199000" />
       <workItem from="1513245108004" duration="909000" />
       <workItem from="1513299885884" duration="67000" />
-      <workItem from="1513354920378" duration="4554000" />
+      <workItem from="1513354920378" duration="5255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39683000" />
+    <option name="totallyTimeSpent" value="40384000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -822,18 +724,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/cc-license.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/cc-license.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           <folding />
         </state>
       </provider>
