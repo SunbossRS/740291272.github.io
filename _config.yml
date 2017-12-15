@@ -31,7 +31,7 @@ disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter','dashang']
+social-share-items: ['wecha']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
