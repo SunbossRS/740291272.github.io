@@ -2,7 +2,6 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-    {% include header.html %}
     <title>Links</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="robots" content="noindex" />
@@ -46,6 +45,26 @@
     <p><a href="http://arcll.cn">ArcLL</a></p>
 
 <h2><a href="http://gloomyghost.com">回主页</a> </h2>
+
+    <div class="row">
+        <section>
+            <div id="skPlayer">
+                <script src="http://gloomyghost.com/assets/js/skPlayer.min.js"></script>
+                <p>
+                    <script>
+                        var player = new skPlayer({
+                            autoplay: false,
+                            listshow: true,
+                            mode: 'listloop',
+                            music: {
+                                type: 'cloud',
+                                source: 2016349850
+                            }
+                        });
+                    </script>
+            </div>
+            </p>
+        </section>
+    </div>
 </body>
-{% include footer.html %}
 </html>
