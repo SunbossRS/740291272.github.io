@@ -29,7 +29,7 @@ nightMode: true
 
 # Share
 social-share: true
-social-share-items: ['wecha']
+social-share-items: ['qzone', 'qq', 'weibo','wechat', 'douban','twitter','facebook']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
