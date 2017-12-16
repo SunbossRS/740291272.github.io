@@ -42,8 +42,8 @@
       <file leaf-file-name="cc-license.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/cc-license.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -467,12 +467,12 @@
       <workItem from="1513299885884" duration="67000" />
       <workItem from="1513354920378" duration="5775000" />
       <workItem from="1513402346121" duration="505000" />
-      <workItem from="1513407357921" duration="2506000" />
+      <workItem from="1513407357921" duration="2586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43915000" />
+    <option name="totallyTimeSpent" value="43995000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -528,7 +528,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/_includes/cc-license.html</url>
-          <line>19</line>
+          <line>14</line>
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
@@ -807,8 +807,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/cc-license.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
