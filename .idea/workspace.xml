@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae605fb-a626-40f9-9ef8-eaa28e738088" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-12-12-Echo.md" afterPath="$PROJECT_DIR$/_posts/2017-12-12-Echo.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,11 +73,21 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-12-Echo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+              <first_editor relative-caret-position="32">
+                <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../APlayer/demo/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="59" column="65" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="59" selection-end-column="65" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -481,12 +490,12 @@
       <workItem from="1513299885884" duration="67000" />
       <workItem from="1513354920378" duration="5775000" />
       <workItem from="1513402346121" duration="505000" />
-      <workItem from="1513407357921" duration="1536000" />
+      <workItem from="1513407357921" duration="1930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42945000" />
+    <option name="totallyTimeSpent" value="43339000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -554,7 +563,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-13-oldpctest.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-8-10-HowATCWORK.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-08-13-installwinsever2016.md" />
     <entry file="file://$PROJECT_DIR$/favicon.ico" />
@@ -793,10 +801,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/../APlayer/demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="208">
+          <caret line="59" column="65" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="59" selection-end-column="65" />
           <folding />
         </state>
       </provider>
@@ -809,11 +817,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-12-Echo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <first_editor relative-caret-position="32">
+            <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             <folding />
           </first_editor>
           <second_editor />
