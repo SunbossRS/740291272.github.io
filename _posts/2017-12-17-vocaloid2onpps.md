@@ -24,3 +24,5 @@ tags: 日志 blog 博文 pc 电脑 vocaloid 鏡音リンレン
 ![1](http://ouav818sk.bkt.clouddn.com/3.png)
 6 ライセンスを授権して使用する
 ![1](http://ouav818sk.bkt.clouddn.com//vocaloid2im/4.png)
+
+### （ちょうど日本語を学び始めた、もっと間違いかもしれない，申し訳ありません QwQ）
