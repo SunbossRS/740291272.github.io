@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/_posts/2017-10-28-QQonUbuntu.md" line="30" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae605fb-a626-40f9-9ef8-eaa28e738088" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About.html" afterPath="$PROJECT_DIR$/About.html" />
-    </list>
+    <list default="true" id="3ae605fb-a626-40f9-9ef8-eaa28e738088" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -444,12 +442,12 @@
       <workItem from="1513474529944" duration="98000" />
       <workItem from="1513516583112" duration="357000" />
       <workItem from="1513675558108" duration="1284000" />
-      <workItem from="1513677108861" duration="1730000" />
+      <workItem from="1513677108861" duration="1822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50090000" />
+    <option name="totallyTimeSpent" value="50182000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
