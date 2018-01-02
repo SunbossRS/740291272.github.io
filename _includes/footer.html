@@ -20,4 +20,64 @@
     <p>
         <script type="text/javascript" src="https://api.lwl12.com/hitokoto/main/get?encode=js&charset=utf-8"></script><div id="lwlhitokoto"><script>lwlhitokoto()</script></div>
     </p>
+    <p>
+        <!--根据位置显示特定内容-->
+        <style>
+            .ip-hidden {
+                display: none;
+            }
+        </style>
+        <script>
+            function getCookie(objName){
+                var arrStr = document.cookie.split("; ");
+                for(var i = 0;i < arrStr.length;i ++){
+                    var temp = arrStr[i].split("=");
+                    if(temp[0] == objName){
+                        if(temp.length>1){
+                            return unescape(temp[1]);
+                        }else{
+                            return "";
+                        }
+                    };
+                }
+                return "";
+            }
+
+            function setCookie(name,value) {
+                var Days = 30;
+                var exp = new Date();
+                exp.setTime(exp.getTime() + Days*24*60*60*1000);
+                document.cookie = name + "="+ escape (value) + ";expires=" + exp.toGMTString();
+            }
+
+            if(getCookie('showall') == '1'){ //如果强制显示的话
+                $('.ip-hidden').show();
+            } else {
+                //判断区域是否锁定
+                var time = Math.round(Date.parse(new Date())/1000);
+                var iplock = localStorage.getItem('iplock');
+                if(iplock == undefined){
+                    //没有锁
+                    checkIp(time);
+                } else if(parseInt(iplock) < time){
+                    //锁已取消
+                    checkIp(time);
+                }
+
+            }
+
+            function checkIp(){
+                $.getScript('https://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js
+
+                ', function() {
+                if(remote_ip_info.province !== '江苏'){
+                    $('.ip-hidden').show();
+                } else {
+                    localStorage.setItem('iplock', (time+(3600*24)).toString());
+                }
+            });
+            }
+        </script>
+
+    </p>
 </footer>
