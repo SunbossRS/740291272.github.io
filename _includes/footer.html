@@ -67,9 +67,7 @@
             }
 
             function checkIp(){
-                $.getScript('https://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js
-
-                ', function() {
+                $.getScript('https://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js', function() {
                 if(remote_ip_info.province !== '江苏'){
                     $('.ip-hidden').show();
                 } else {
