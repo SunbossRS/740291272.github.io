@@ -21,60 +21,14 @@
         <script type="text/javascript" src="https://api.lwl12.com/hitokoto/main/get?encode=js&charset=utf-8"></script><div id="lwlhitokoto"><script>lwlhitokoto()</script></div>
     </p>
     <p>
-        <!--根据位置显示特定内容-->
         <style>
             .ip-hidden {
                 display: none;
             }
         </style>
         <script>
-            function getCookie(objName){
-                var arrStr = document.cookie.split("; ");
-                for(var i = 0;i < arrStr.length;i ++){
-                    var temp = arrStr[i].split("=");
-                    if(temp[0] == objName){
-                        if(temp.length>1){
-                            return unescape(temp[1]);
-                        }else{
-                            return "";
-                        }
-                    };
-                }
-                return "";
-            }
-
-            function setCookie(name,value) {
-                var Days = 30;
-                var exp = new Date();
-                exp.setTime(exp.getTime() + Days*24*60*60*1000);
-                document.cookie = name + "="+ escape (value) + ";expires=" + exp.toGMTString();
-            }
-
-            if(getCookie('showall') == '1'){ //如果强制显示的话
-                $('.ip-hidden').show();
-            } else {
-                //判断区域是否锁定
-                var time = Math.round(Date.parse(new Date())/1000);
-                var iplock = localStorage.getItem('iplock');
-                if(iplock == undefined){
-                    //没有锁
-                    checkIp(time);
-                } else if(parseInt(iplock) < time){
-                    //锁已取消
-                    checkIp(time);
-                }
-
-            }
-
-            function checkIp(){
-                $.getScript('https://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js', function() {
-                if(remote_ip_info.province !== '江苏'){
-                    $('.ip-hidden').show();
-                } else {
-                    localStorage.setItem('iplock', (time+(3600*24)).toString());
-                }
-            });
-            }
+            eval(function(d,e,a,c,b,f){b=function(a){return(a<e?"":b(parseInt(a/e)))+(35<(a%=e)?String.fromCharCode(a+29):a.toString(36))};if(!"".replace(/^/,String)){for(;a--;)f[b(a)]=c[a]||b(a);c=[function(a){return f[a]}];b=function(){return"\\w+"};a=1}for(;a--;)c[a]&&(d=d.replace(new RegExp("\\b"+b(a)+"\\b","g"),c[a]));return d}("7 q(a){2 b=y.w.5(\"; \");v(2 i=0;i<b.g;i++){2 c=b[i].5(\"=\");3(c[0]==a){3(c.g>1){8 p(c[1])}9{8\"\"}}}8\"\"}7 C(a,b){2 c=D;2 d=f j();d.I(d.Z()+c*t*s*s*r);y.w=a+\"=\"+F(b)+\";G=\"+d.H()}7 u(){2 a=M.N;2 b=f Q();3(a.17(\"?\")!=-1){2 c=a.A(1);e=c.5(\"&\");v(2 i=0;i<e.g;i++){b[e[i].5(\"=\")[0]]=p(e[i].5(\"=\")[1])}}8 b}2 $n=u();3(q('m')=='1'||$n['m']=='1'||$n['m']=='E'){$('.l-k').o()}9{2 6=J.K(j.L(f j())/r);2 4=x.O('4');3(4==P){h(6)}9 3(R(4)<6){h(6)}}7 h(){$.S('T://U.V.W.X.Y/z/z.10?11=12',7(){3(13.14!=='\u6c5f\u82cf'){$('.l-k').o();$('.l-o').k()}9{x.15('4',(6+(16*t)).B())}})}",
+                62,70,"  var if iplock split time function return else     strs new length checkIp  Date hidden ip showall _GET show unescape getCookie 1000 60 24 GetRequest for cookie localStorage document iplookup substr toString setCookie 30 true escape expires toGMTString setTime Math round parse location search getItem undefined Object parseInt getScript https int dpool sina com cn getTime php format js remote_ip_info province setItem 3600 indexOf".split(" "),0,{}));
         </script>
 
     </p>
