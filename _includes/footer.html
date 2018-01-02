@@ -21,6 +21,82 @@
         <script type="text/javascript" src="https://api.lwl12.com/hitokoto/main/get?encode=js&charset=utf-8"></script><div id="lwlhitokoto"><script>lwlhitokoto()</script></div>
     </p>
     <p>
+        <style>
+            .ip-hidden {
+                display: none;
+            }
+        </style>
+        <script>
+            (function(){
+                var tid = setInterval(function(){
+                    if(typeof $ !== 'undefined'){
+                        clearInterval(tid);
+                        function getCookie(objName){
+                            var arrStr = document.cookie.split("; ");
+                            for(var i = 0;i < arrStr.length;i ++){
+                                var temp = arrStr[i].split("=");
+                                if(temp[0] == objName){
+                                    if(temp.length>1){
+                                        return unescape(temp[1]);
+                                    }else{
+                                        return "";
+                                    }
+                                };
+                            }
+                            return "";
+                        }
 
+                        function setCookie(name,value) {
+                            var Days = 30;
+                            var exp = new Date();
+                            exp.setTime(exp.getTime() + Days*24*60*60*1000);
+                            document.cookie = name + "="+ escape (value) + ";expires=" + exp.toGMTString();
+                        }
+
+                        function GetRequest() {
+                            var url = location.search;
+                            var theRequest = new Object();
+                            if (url.indexOf("?") != -1) {
+                                var str = url.substr(1);
+                                strs = str.split("&");
+                                for(var i = 0; i < strs.length; i ++) {
+                                    theRequest[strs[i].split("=")[0]]=unescape(strs[i].split("=")[1]);
+                                }
+                            }
+                            return theRequest;
+                        }
+
+                        var $_GET = GetRequest();
+
+                        if(getCookie('showall') == '1' || $_GET['showall'] == '1' || $_GET['showall'] == 'true'){ //如果强制显示的话
+                            $('.ip-hidden').show();
+                        } else {
+                            //判断区域是否锁定
+                            var time = Math.round(Date.parse(new Date())/1000);
+                            var iplock = localStorage.getItem('iplock');
+                            if(iplock == undefined){
+                                //没有锁
+                                checkIp(time);
+                            } else if(parseInt(iplock) < time){
+                                //锁已取消
+                                checkIp(time);
+                            }
+
+                        }
+
+                        function checkIp(){
+                            $.getScript('https://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js', function() {
+                                if(remote_ip_info.province !== '江苏'){
+                                    $('.ip-hidden').show();
+                                    $('.ip-show').hidden();
+                                } else {
+                                    localStorage.setItem('iplock', (time+(3600*24)).toString());
+                                }
+                            });
+                        }
+                    }
+                }, 50);
+            })();
+        </script>
     </p>
 </footer>
