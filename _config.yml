@@ -38,8 +38,8 @@ theme-color: 'default'  # pink or default
 postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
-#sns:
-zhihu: 'https://www.zhihu.com/people/gloomyghost/activities '
+sns:
+zhihu: 'https://www.zhihu.com/people/gloomyghost/'
 github: 'https://github.com/740291272'
 twitter: 'https://twitter.com/GLGH_'
 
