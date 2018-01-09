@@ -17,8 +17,16 @@ $(document).ready(function(){
     $('.g-nav').on('click', function(e){
         e.stopPropagation();
     });
-    
-    /*
+
+    /**
+     * Hello Text
+     */
+    console.log("Welcome To GloomyGhost World ")
+    console.log("Welcome To GloomyGhost World ")
+    console.log("Welcome To GloomyGhost World ")
+
+
+    /**
     *  Header Bar
     */
     if($(window).width() > 695) {
