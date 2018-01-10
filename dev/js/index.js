@@ -18,12 +18,7 @@ $(document).ready(function(){
         e.stopPropagation();
     });
 
-    /**
-     * Hello Text
-     */
-    console.log("Welcome To GloomyGhost World ");
-    console.log("Welcome To GloomyGhost World ");
-    console.log("Welcome To GloomyGhost World ");
+
     /**
     *  Header Bar
     */
