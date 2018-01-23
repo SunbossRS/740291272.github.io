@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3ae605fb-a626-40f9-9ef8-eaa28e738088" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
       <change beforePath="$PROJECT_DIR$/_posts/2017-12-12-Echo.md" afterPath="$PROJECT_DIR$/_posts/2017-12-12-Echo.md" />
-      <change beforePath="$PROJECT_DIR$/links.html" afterPath="$PROJECT_DIR$/links.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-1-21-useov3.md" afterPath="$PROJECT_DIR$/_posts/2018-1-21-useov3.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,8 +54,21 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-12-Echo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="173" lean-forward="false" selection-start-line="9" selection-start-column="173" selection-end-line="9" selection-end-column="173" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-1-21-useov3.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-1-21-useov3.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="173" lean-forward="false" selection-start-line="8" selection-start-column="173" selection-end-line="8" selection-end-column="173" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -79,16 +91,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
               <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="links.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/links.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -197,6 +199,7 @@
         <option value="$PROJECT_DIR$/links.html" />
         <option value="$PROJECT_DIR$/_includes/cc-license.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-1-21-useov3.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-12-Echo.md" />
       </list>
     </option>
@@ -238,45 +241,7 @@
             <path>
               <item name="740291272.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="740291272.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="740291272.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="740291272.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="740291272.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="740291272.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="740291272.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="740291272.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="740291272.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="740291272.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="740291272.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="740291272.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="740291272.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="740291272.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="740291272.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="740291272.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -666,7 +631,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="bye the world" />
     <MESSAGE value="ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+    <MESSAGE value="fix some bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix some bugs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -942,17 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-1-21-useov3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/links.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -1025,11 +980,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-1-21-useov3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="173" lean-forward="false" selection-start-line="8" selection-start-column="173" selection-end-line="8" selection-end-column="173" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-12-Echo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="173" lean-forward="false" selection-start-line="9" selection-start-column="173" selection-end-line="9" selection-end-column="173" />
             <folding />
           </first_editor>
           <second_editor />
