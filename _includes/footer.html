@@ -31,4 +31,24 @@
                 62,77,"  var if function split return else strs length          new Date showall ip show checkIp 1000 GetRequest document for cookie iplookup hidden unescape undefined 24 localStorage iplock 60 getCookie Object indexOf substr typeof setTime getTime true setInterval setCookie 30 escape Math round parse expires toGMTString getItem clearInterval location parseInt getScript https int dpool sina com cn 50 php format js remote_ip_info province hide setItem 3600 toString search".split(" "),0,{}));
         </script>
     </p>
+<script>
+    /**
+    *Funny Title
+    */
+
+    var title=document.title;
+    var hiddenProperty = 'hidden' in document ? 'hidden' :
+    'webkitHidden' in document ? 'webkitHidden' :
+    'mozHidden' in document ? 'mozHidden' :
+    null;
+    var visibilityChangeEvent = hiddenProperty.replace(/hidden/i, 'visibilitychange');
+    var onVisibilityChange = function(){
+    if (!document[hiddenProperty]) {
+    document.title = title;
+    }else{
+    document.title = "你找不到我(^ω^) - " + title;
+    }
+    }
+    document.addEventListener(visibilityChangeEvent, onVisibilityChange);
+</script>
 </footer>

@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ae605fb-a626-40f9-9ef8-eaa28e738088" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/dev/js/index.js" afterPath="$PROJECT_DIR$/dev/js/index.js" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,18 +52,28 @@
       <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/sass/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2955">
+            <state relative-caret-position="-12323">
               <caret line="197" column="25" lean-forward="false" selection-start-line="197" selection-start-column="25" selection-end-line="197" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="249" column="89" lean-forward="true" selection-start-line="249" selection-start-column="89" selection-end-line="249" selection-end-column="89" />
+            <state relative-caret-position="513">
+              <caret line="282" column="35" lean-forward="true" selection-start-line="282" selection-start-column="35" selection-end-line="282" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -89,21 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="424">
+              <caret line="43" column="55" lean-forward="true" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -181,7 +181,6 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-16-24dian.md" />
         <option value="$PROJECT_DIR$/tool/index.html" />
         <option value="$PROJECT_DIR$/About.html" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_posts/2017-12-07-depression.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-8-dyed.md" />
         <option value="$PROJECT_DIR$/_posts/2018-1-11.kagde.md" />
@@ -194,6 +193,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-12-12-Echo.md" />
         <option value="$PROJECT_DIR$/_posts/2018-1-21-useov3.md" />
         <option value="$PROJECT_DIR$/dev/js/index.js" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
       </list>
     </option>
   </component>
@@ -204,8 +204,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="256" />
-    <option name="y" value="180" />
+    <option name="x" value="243" />
+    <option name="y" value="157" />
     <option name="width" value="1293" />
     <option name="height" value="768" />
   </component>
@@ -539,7 +539,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="256" y="180" width="1293" height="768" extended-state="0" />
+    <frame x="243" y="157" width="1293" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -645,7 +645,8 @@
     <MESSAGE value="ok" />
     <MESSAGE value="fix some bugs" />
     <MESSAGE value="try &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86 src=&quot;//music.163.com/outchain/player?type=2&amp;id=523757033&amp;auto=1&amp;height=66&quot;&gt;&lt;/iframe&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="try &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86 src=&quot;//music.163.com/outchain/player?type=2&amp;id=523757033&amp;auto=1&amp;height=66&quot;&gt;&lt;/iframe&gt;" />
+    <MESSAGE value="Funny Title" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funny Title" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -829,13 +830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -957,26 +951,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/post-head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/cc-license.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -989,14 +967,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/sass/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2955">
-          <caret line="197" column="25" lean-forward="false" selection-start-line="197" selection-start-column="25" selection-end-line="197" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1005,10 +975,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post-head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/sass/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12323">
+          <caret line="197" column="25" lean-forward="false" selection-start-line="197" selection-start-column="25" selection-end-line="197" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dev/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="249" column="89" lean-forward="true" selection-start-line="249" selection-start-column="89" selection-end-line="249" selection-end-column="89" />
+        <state relative-caret-position="513">
+          <caret line="282" column="35" lean-forward="true" selection-start-line="282" selection-start-column="35" selection-end-line="282" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="43" column="55" lean-forward="true" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
           <folding />
         </state>
       </provider>
