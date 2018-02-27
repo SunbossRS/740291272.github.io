@@ -4,10 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/_posts/2017-10-28-QQonUbuntu.md" line="30" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae605fb-a626-40f9-9ef8-eaa28e738088" name="Default" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;_posts/2018-1-11-kagde.md&#10;#&#9;_posts/2018-1-11.kagde.md&#10;#&#9;_posts/2018-1-30.kagde.md">
+    <list default="true" id="3ae605fb-a626-40f9-9ef8-eaa28e738088" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-2-28-kagde.md" afterPath="$PROJECT_DIR$/_posts/2018-2-28-kagde.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,8 +51,8 @@
       <file leaf-file-name="links.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/links.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4">
-              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="124">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -612,7 +610,8 @@
     <MESSAGE value="Funny Title" />
     <MESSAGE value="add Links" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;_posts/2018-1-11-kagde.md&#10;#&#9;_posts/2018-1-11.kagde.md&#10;#&#9;_posts/2018-1-30.kagde.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;_posts/2018-1-11-kagde.md&#10;#&#9;_posts/2018-1-11.kagde.md&#10;#&#9;_posts/2018-1-30.kagde.md" />
+    <MESSAGE value="UP" />
+    <option name="LAST_COMMIT_MESSAGE" value="UP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -994,8 +993,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/links.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="124">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding />
         </state>
       </provider>
