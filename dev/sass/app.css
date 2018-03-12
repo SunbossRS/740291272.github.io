@@ -617,7 +617,6 @@ a {
   .markdown-body .highlight {
 
     margin: 0 0 16px;
-    overflow: scroll;
   }
   .markdown-body img {
     transition: .3s; }
