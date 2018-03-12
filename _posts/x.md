@@ -1,0 +1,155 @@
+----
+ -layout: post
+ -title: 再见·永别
+ -category: LIFE
+ -cover:  'http://ouav818sk.bkt.clouddn.com/652758ded99d9bfe4e14d070f97f1024.jpeg'
+ -tags: 日志 blog 博文
+ ----
+ -
+ -
+ -我不知道生命在于什么，活着在于什么。
+ -
+ -也许是生命的意义，被不断的绑架，没有自己的空间，没有自己的想法，也不需要想什么。只要服从指令就好了。
+ -
+ -不需要考虑什么，生活对于我来说，没有任何希望，虽然被说非常厉害，虽然涉足广，但是没有精通的。编程/电子/音乐/vocaloid/网站/论坛/高压/直播/核反应/安全/反向/学习/怼人/都是一样，没有精通的，只有皮毛。
+ -
+ -没有什么寄托的世界，存在的错误，我与世界。不存在的世界。17年的生活，我受够了。
+ -
+ -## 世界存在就是一个错误，不是它毁灭就是我毁灭。
+ -
+ -死亡对我来说，没有痛苦，甚至是一种解脱，活着好累。死了可能会好点，活着受苦，也不是办法。。。。。
+ -
+ -这并不是对是错，这只是我自己的选择，我不是不孝，也不是狠心 只是我累了，不想想那么多了
+ -
+ -我有很多的问题
+ -
+ -1.我认为我写做与众不同能凸显出我和他朋友的不同，然后我希望能用一种让别人崇拜自己的方式来交友。
+ -
+ -2.我希望他身边的人和自己一样，不能容忍和自己不同的人。
+ -
+ -我被孤立，不受信任，被孤立的话，性格就会变得很孤僻，抗打击的能力也会因此很弱。我经常一个人哭。。。。
+ -
+ -我从来都不是什么成功的人士，永远也不是，甚至只想放弃。。
+ -
+ -也许是我的懦弱与怠惰，或者还有其他的原因，逃离世界已经成为定局。。
+ -
+ -完全不懂现在的世界，虚无。撕裂。没有一丝的留念。。。。什么也不知道。。。。
+ -
+ -真正懂我的人很少。都是嘲笑，讽刺。。这个世界不是我所想要的。。。不是我希望的。
+ -
+ -完全。
+ -
+ -**我的离去是我自己决定的，不存在对他人的怨恨，不是对学校的厌烦，而是我自己选择的结果。**
+ -
+ -谢谢那些在我成长路上关心过我的人，谢谢我的同学陪伴我度过的时光，谢谢父母的养育，谢谢老师的教导。
+ -
+ -没有怨恨，没有留念，我心已决，对不起，谢谢。
+ -
+ -あと何を待ってる？
+ -
+ -信頼に値するものは何かありますか？
+ -
+ -捨てた後に
+ -
+ -涙が流れて
+ -
+ -無視される
+ -
+ -虐待
+ -
+ -離れる
+ -
+ -私を呼んで
+ -
+ -未来に向かう
+ -
+ -人に捨てられて……
+ -
+ -全智全能の言叶をほら闻かせてよ 。。
+ -
+ -脳みそ以外もういらないと。。。。。
+ -
+ -终于可以解脱了。。。。。。。。。。😂😂😂
+ -
+ -再见·永别，我过的很好------到现在。
+ -
+ -### 2000-2018<br>
+ -### グルーミーゴースト<br>
+ -### 与你·永远
+ -
+ -**也许，这一切，都只是个DREAM<br>
+ -等待梦醒的时刻。。。。。。。**
+ -
+ -
+ -
+ -```c
+ -
+ -Your lie lies on frozen lips
+ -
+ -as pale petals 'bout to fall off.
+ -
+ -Hopefully I'll get used to this 
+ -
+ -hoax that our lovemade.
+ -
+ -Wind whines through broken tips
+ -
+ -as our memories die off.
+ -
+ -Hopefully you'll get used to my 
+ -
+ -hugs - meaning good-bye.
+ -
+ -Loves me, loves me not.
+ -
+ -Tried to get a rise out of
+ -
+ -magnolia petals but
+ -
+ -soon scattered them over you.
+ -
+ -Watch me fall & drop away.
+ -
+ --Dropped me bad.
+ -
+ -Full of tears shall be stream.
+ -
+ -Life ends up La cri mo sa
+ -
+ -Shattered heart, burnt my life out.
+ -
+ -Why you still my remedy.
+ -
+ -Loves me, loves me not.
+ -
+ -Tried to get a rise out of
+ -
+ -magnolia petals but
+ -
+ -soon scattered them over you.
+ - 
+ -Watch me fall & drop away.
+ -
+ -Hear me cry,
+ -
+ -Our love's dead dried.
+ -
+ -忘れられない 人の面影。。。。。。
+ -
+ -Become your shield whenever you fall asleep
+ -
+ -I cried out
+ -
+ -Please don't leave me behind, leave me behind
+ -
+ -So you held me tight
+ -
+ -And said I will be just fine, I will be just fine, I will be just fine
+ -
+ -The shoulders you used to embrace
+ -
+ -Sparkling ashes drift along your flames
+ -
+ -Take me to where our souls may live in peace
+ -
+ -```
