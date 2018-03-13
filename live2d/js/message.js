@@ -51,9 +51,6 @@ $.ajax({
 (function (){
     var text;
     if(document.referrer !== ''){
-        var referrer = document.createElement('a');
-        referrer.href = document.referrer;
-        text = '嗨！来自 <span style="color:#0099cc;">' + referrer.hostname + '</span> 的朋友！';
         var domain = referrer.hostname.split('.')[1];
         if (domain == 'baidu') {
             text = '嗨！ 来自 百度搜索 的朋友，<br>你是搜索 <span style="color:#0099cc;">' + referrer.search.split('&wd=')[1].split('&')[0] + '</span> 找到的我吗？';

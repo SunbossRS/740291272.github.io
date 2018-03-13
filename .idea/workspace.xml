@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ae605fb-a626-40f9-9ef8-eaa28e738088" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change beforePath="$PROJECT_DIR$/live2d/js/message.js" afterPath="$PROJECT_DIR$/live2d/js/message.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,12 +69,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="196">
               <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/live2d/js/message.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="577">
+              <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+              <folding>
+                <marker date="1520950576835" expanded="true" signature="1972:1986" ph="..." />
+                <marker date="1520950576835" expanded="true" signature="2153:2167" ph="..." />
+                <marker date="1520950576835" expanded="true" signature="2335:2349" ph="..." />
+                <marker date="1520950576835" expanded="true" signature="3413:3427" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -202,6 +217,7 @@
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/live2d/css/live2d.css" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/live2d/js/message.js" />
       </list>
     </option>
   </component>
@@ -1032,25 +1048,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/live2d/js/message.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-533">
-          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-          <folding>
-            <marker date="1520931796760" expanded="true" signature="1957:1971" ph="..." />
-            <marker date="1520931796760" expanded="true" signature="2157:2171" ph="..." />
-            <marker date="1520931796760" expanded="true" signature="2338:2352" ph="..." />
-            <marker date="1520931796760" expanded="true" signature="2520:2534" ph="..." />
-            <marker date="1520931796760" expanded="true" signature="3598:3612" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/live2d/js/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+          <folding>
+            <marker date="1520950576835" expanded="true" signature="1972:1986" ph="..." />
+            <marker date="1520950576835" expanded="true" signature="2153:2167" ph="..." />
+            <marker date="1520950576835" expanded="true" signature="2335:2349" ph="..." />
+            <marker date="1520950576835" expanded="true" signature="3413:3427" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
