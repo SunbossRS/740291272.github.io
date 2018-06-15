@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Debrry--也许是最漂亮的树莓派Linux操作系统
+title: HTS 小式
 cover: 'http://hts.sp.nitech.ac.jp/skin/logo.png'
 category: USE
 tags: 日志 blog 博文
