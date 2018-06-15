@@ -1,4 +1,17 @@
+/**
+ * Jekyll Theme Style
+ * - author: liaokeyu (liaokeyu.com)
+ */
+/*** Parameters ***/
+/*** Mixins ***/
+/** Font **/
+@font-face {
+  font-family: "Merriweather";
+  src: url("../fonts/Merriweather-Black.ttf"); }
 
+@font-face {
+  font-family: "Merriweather-Light";
+  src: url("../fonts/Merriweather-Light.ttf"); }
 
 /*** Base ***/
 html, body {
@@ -53,7 +66,7 @@ a {
   .g-header .g-logo {
     float: left;
     margin-left: 2%;
-    width: 26px;
+    width: 60px;
     height: 26px;
     background: url("../icons/logo.svg") no-repeat center;
     background-size: 100% 100%;
@@ -275,7 +288,6 @@ a {
       .author-card .sns-links li .iconfont {
         font-size: 22px;
         line-height: 30px; }
-
       .author-card .sns-links li .iconfont {
         color: #B8BDC3;
         transition: .2s; }
@@ -391,10 +403,8 @@ a {
   .search-card .search_result {
     position: relative;
     margin-top: -2px;
-    max-height: 230px;
     background-color: #fff;
     border-radius: 0 0 4px 4px;
-    overflow: scroll;
     z-index: 0; }
   .search-card .search_item {
     padding: 6px 18px;
@@ -613,11 +623,9 @@ a {
   width: 720px;
   box-sizing: border-box;
   padding: 0 0 32px; }
-
   .markdown-body .highlight {
-
     margin: 0 0 16px;
-  }
+    overflow: scroll; }
   .markdown-body img {
     transition: .3s; }
   .markdown-body ul li p, .markdown-body ol li p {
@@ -749,7 +757,7 @@ a {
         color: #000; }
 
 .np-banner {
- position: fixed;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
