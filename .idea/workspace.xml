@@ -6,8 +6,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae605fb-a626-40f9-9ef8-eaa28e738088" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-5-9-fftsyn.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-5-9-fftsyn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-13-installwinsever2016.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-08-13-installwinsever2016.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-11-05-MD5.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-11-05-MD5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-07-depression.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-12-07-depression.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-3-12-installwine.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-3-12-installwine.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-4-29-ubuntuonpad.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-4-29-ubuntuonpad.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-6-15-EnglishHTSVoice.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-6-15-EnglishHTSVoice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-6-15-whathell.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-6-15-whathell.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -488,7 +493,7 @@
       <workItem from="1524118423713" duration="262000" />
       <workItem from="1524961150935" duration="4652000" />
       <workItem from="1529034987089" duration="953000" />
-      <workItem from="1529045772122" duration="1660000" />
+      <workItem from="1529045772122" duration="2006000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1524971757295</created>
@@ -553,11 +558,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529047081178</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update">
+      <created>1529070370509</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1529070370509</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65658000" />
+    <option name="totallyTimeSpent" value="66004000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -570,14 +582,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19166666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19166666" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32809225" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32941177" />
       <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.13827655" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.2264529" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.25890985" />
