@@ -12,7 +12,7 @@ Wine （“Wine Is Not an Emulator” 的递归缩写）是一个能够在多种
 
 
 # git下载源码
-```
+```bash
     mkdir -p ~/qemu/qemu-git_2013-03-23_v1.4.0+ntpl+static/qemu
     cd ~/qemu/qemu-git_2013-03-23_v1.4.0+ntpl+static/qemu
     git clone git://git.qemu.org/qemu.git
@@ -21,7 +21,7 @@ Wine （“Wine Is Not an Emulator” 的递归缩写）是一个能够在多种
 ```
 
 # 打补丁
-```
+```bash
     # 调整后的版本 http://patchwork.ozlabs.org/patch/45206/
     patch -p1 < ../0001-add-usermode-NPTL-support-for-i386_qemu-v1.4.0.patch
 
@@ -30,14 +30,14 @@ Wine （“Wine Is Not an Emulator” 的递归缩写）是一个能够在多种
 
 
 # 编译 qemu
-```
+```bash
     ./configure --target-list=i386-linux-user --static
     make
 ```
 
 
 # 创造X86环境
-```
+```bash
     # 以下命令请用Root账户运行或者使用sudo
         mount -t binfmt_misc none /proc/sys/fs/binfmt_misc
         echo -1 > /proc/sys/fs/binfmt_misc/status
@@ -46,7 +46,7 @@ Wine （“Wine Is Not an Emulator” 的递归缩写）是一个能够在多种
 
 
 # 准备 chroot 环境
-```
+```bash
     # 以下命令请用Root账户运行或者使用sudo
         debootstrap --arch=i386 --foreign wheezy chroot-wheezy-i386 http://ftp.de.debian.org/debian
     # 以下命令请用普通账户运行
@@ -68,7 +68,7 @@ Wine （“Wine Is Not an Emulator” 的递归缩写）是一个能够在多种
 
 
 # 安装wine
-```
+```bash
     mkdir wine
     cd wine
     wget http://www.playonlinux.com/wine/binaries/linux-x86/PlayOnLinux-wine-1.5.26-linux-x86.pol
@@ -78,7 +78,7 @@ Wine （“Wine Is Not an Emulator” 的递归缩写）是一个能够在多种
 
 
 # 进入chroot
-```
+```bash
     # 以下命令请用Root账户运行或者使用sudo
     env -i TERM=xterm /usr/sbin/chroot chroot-wheezy-i386 /bin/su -l user2
         # as user2 in chroot
@@ -90,7 +90,7 @@ Wine （“Wine Is Not an Emulator” 的递归缩写）是一个能够在多种
 ```
 
 # 测试下
-```
+```bash
         # 在chroot环境下运行
         mkdir ~/notepadpp
         cd ~/notepadpp
@@ -107,7 +107,7 @@ Wine （“Wine Is Not an Emulator” 的递归缩写）是一个能够在多种
 
 
 
-```
+```bash
 diff --git a/configure b/configure
 index 8789324..5c48942 100755                                                                                                                               
 --- a/configure                                                                                                                                             
@@ -165,7 +165,7 @@ index 9e31ea7..86ecfbc 100644
 
 
 
-```
+```bash
 
 diff --git a/linux-user/syscall.c b/linux-user/syscall.c
 index 9e31ea7..dc80c0a 100644

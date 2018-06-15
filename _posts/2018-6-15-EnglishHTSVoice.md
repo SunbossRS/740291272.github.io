@@ -10,7 +10,7 @@ tags: 日志 blog 博文
 
 编译软件：
 
-```
+```bsah
 git clone https://github.com/gtsusyn/EnglishHTSVoice.git
 cd EnglishHTSVoice
 cd hts_engine_API-1.04 
@@ -25,11 +25,11 @@ make install
 ```
 
 测试合成：
-```
+```bsah
 sh runvoice.sh
 ```
 或者：
-```
+```bsah
 #!/bin/sh
 
 build/bin/flite_hts_engine \

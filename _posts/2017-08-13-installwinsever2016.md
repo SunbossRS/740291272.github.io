@@ -71,7 +71,7 @@ ED2K  ：[cn_windows_server_2016_x64_dvd_9327743.iso (5.61 GB)](ed2k://|file|cn_
 
 日志：
 
-```
+```shell
 Rufus version: 2.16.1170
 Windows version: Windows 10 64-bit (Build 14393)
 Syslinux versions: 4.07/2013-07-25, 6.03/2014-10-06
