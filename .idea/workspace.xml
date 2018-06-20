@@ -5,10 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/_posts/2018-4-29-ubuntuonpad.md" line="36" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae605fb-a626-40f9-9ef8-eaa28e738088" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-6-19-php24.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3ae605fb-a626-40f9-9ef8-eaa28e738088" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -467,7 +464,7 @@
       <workItem from="1524961150935" duration="4652000" />
       <workItem from="1529034987089" duration="953000" />
       <workItem from="1529045772122" duration="2812000" />
-      <workItem from="1529399937516" duration="263000" />
+      <workItem from="1529399937516" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1524971757295</created>
@@ -553,11 +550,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529071122395</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="更新文章php学习日志">
+      <created>1529400247560</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1529400247560</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67073000" />
+    <option name="totallyTimeSpent" value="67468000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -570,16 +574,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19166666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19166666" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32809225" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32941177" />
       <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.2264529" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.2264529" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.25890985" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -684,7 +687,8 @@
     <MESSAGE value="Bye" />
     <MESSAGE value="Update" />
     <MESSAGE value="更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+    <MESSAGE value="更新文章php学习日志" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新文章php学习日志" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
